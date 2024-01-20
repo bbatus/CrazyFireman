@@ -1,16 +1,23 @@
-# Crazy-Fireman
+# Crazy Fireman is ready!
 
-Go down to the city and become a good firefighter by extinguishing all the flames for those in need!
+First Person Shooter concept game!
 
-## Features
+## Kurulum
+1. Unity 2022.3.5 
+2. Proje klasöründeki `Assets/Scenes` dizinindeki `FirstScene.unity` dosyasını açın.
+3. Oyunu başlatmak için "Tap To Start!" alanına tıklayın.
 
-Realistic Physics Simulation: The game offers realistic movements and interactions using Rigidbody and Collider components.
-Fire Extinguishing Mechanic: Players can earn points by extinguishing fires, enhancing the competitive aspect of the game.
-Character Interactions: Players can interact in different ways, such as safely helping an elderly man cross the road.
-Interactive Car Control: The game allows players to drive, park, and experience the realistic physics of a car.
-Object Carrying and Throwing: Players can carry and throw various objects, adding a strategic dimension to the game.
+## Oynanış
+1. Oyunu başlatarak console üzerinden W/A/S/D tuşlarıyla arabayı yönlendirin.
+2. Arabayı park alanına park edin, ardından araçtan inip yangınları hedefleyip ateş edin.
+3. Söndürdüğünüz ateş başına skor ve övgü toplayın.
+4. Tüm yangınları söndürün, Şehrin size ihtiyacı var!
 
-## Game Brief
+## Özellikler
+1. Araba hareket mekanizması
+2. FPS shooter mekanizması
+3. Collider and triggers.
+4. Particle effects.
 
 [Game Video Link 1](https://www.youtube.com/watch?v=N5DWHX-WhkI)
 [Game Video Link 2](https://www.linkedin.com/posts/batuhansarihan_herkese-merhabalar-unity-ile-i%CC%87tfaiye-activity-7135297263517450240-HHsE?utm_source=share&utm_medium=member_desktop)
